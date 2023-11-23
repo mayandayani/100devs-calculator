@@ -17,11 +17,14 @@ body {
     border-radius: 7%;
 }
 
-#display {
-    background-color: white;
+#displayBox {
+    margin-left: 11px;
     height: 100px;
-    width: 425px;;
-    margin-bottom: 20px;
+    width: 400px;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: right;
+    background-color: white;
 }
 
 #numbers {
